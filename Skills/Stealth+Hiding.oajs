@@ -1,7 +1,8 @@
 /**
  * Stealth+Hiding.oajs
  * This script trains stealth and hiding to GM, unattended!
- * Usage: Just hit run. DO NOT loop it!
+ * Usage: Just hit run. DO NOT loop it! Wear armor according
+ * to your shard! see http://www.uoguide.com/Stealth
  * Settings: You can set the stealth direction and the number
  * of tiles to walk.
  * @license GPL-3.0 , see <https://www.gnu.org/licenses/>
