@@ -9,7 +9,7 @@
  * @version 0.1
  * @author  3HMonkey, see https://github.com/3HMonkey/
  * @link see https://github.com/3HMonkey/OrionUOScripts/
- * @updated 2018-07-25
+ * @updated 2018-07-30
  */
 function AttackNearestEnemyMobile() {
     Orion.Ignore('self');
